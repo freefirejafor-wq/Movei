@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieNestBD</string>
+    <string name="error_title">Unable to Connect</string>
+    <string name="error_message">Could not load MovieNestBD. Please check your internet connection and try again.</string>
+    <string name="retry_button">Try Again</string>
+    <string name="back_to_home">Go to Home</string>
+    <string name="loading_label">Loading MovieNestBD…</string>
+    <string name="refresh_page">Refresh</string>
+    <string name="nav_back">Navigate back</string>
+    <string name="nav_forward">Navigate forward</string>
+</resources>

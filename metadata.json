@@ -1,0 +1,6 @@
+{
+  "name": "MovieNestBD",
+  "description": "MovieNestBD native Android app to browse and stream movies and entertainment with back navigation, offline error handling, and fast WebView support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
